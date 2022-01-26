@@ -1,5 +1,7 @@
 .idea
 .pytest_cache
-__pychahe__/
+__pychahe__/*
 logs/*
 test_results/
+tests/__pycache__/
+lib/__pycache__/
