@@ -1,2 +1,2 @@
-# pythonAPI
+# PythonAPI
 Simple python API project
